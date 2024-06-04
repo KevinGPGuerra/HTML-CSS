@@ -7,7 +7,7 @@
 <br>
 <br>
 <div>
-  <p>Wide Coverage location project</p>
+  <p align="center" >Wide Coverage location project</p>
   <img src="https://raw.githubusercontent.com/KevinGPGuerra/HTML-CSS/main/Project-1/IMG/Wide%20coverage%20location%20logo.png" alt="wide-coverage-location"/>
 </div> 
 <br>
@@ -15,6 +15,6 @@
 <br>
 <br>
 <div>
-  <p>easy shopping via mobile project</p>
+  <p align="center">easy shopping via mobile project</p>
   <img src="https://raw.githubusercontent.com/KevinGPGuerra/HTML-CSS/main/Project-2/IMG/Easy%20shopping%20via%20mobile.png" alt="easy-shopping-via-mobile"/>
 </div> 
